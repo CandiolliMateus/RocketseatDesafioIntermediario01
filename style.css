@@ -50,3 +50,8 @@ a {
 #footer a + a {
     margin-left: 42px;
 }
+
+#onda {
+    position: fixed;
+    bottom: 0;
+}
